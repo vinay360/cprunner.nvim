@@ -18,7 +18,7 @@ M.defaults = {
 	setup_keymap = true,
 
 	-- The default keymap to run the function
-	keymap = "<F5>",
+	keymap = "<leader>r",
 }
 
 -- This table will be populated with the final merged configuration
